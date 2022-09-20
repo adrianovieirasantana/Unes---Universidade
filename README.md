@@ -1,5 +1,5 @@
 # Site fictício - Unes-Universidade
 
-Construido com Html e Css3.
+Construido com Html5 e Css3.
 
-Link para visitar o site: 
+Link para visitar o site: https://adrianovieirasantana.github.io/unes-universidade/
